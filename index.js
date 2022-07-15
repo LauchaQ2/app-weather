@@ -57,7 +57,7 @@ const main = async () => {
 
          await pausa();
 
-    } while (opt !== '0');
+    } while (opt !== 0);
 
 
 }
